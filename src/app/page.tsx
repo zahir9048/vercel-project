@@ -8,6 +8,8 @@ export default function Home() {
       <h1>Home Page</h1>
 
       <Student name={"zahir"} profession={"student"} />
+
+      <p>i am zahir.   i am a student </p>
     </div>
   );
 }
